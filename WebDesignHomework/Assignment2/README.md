@@ -3,7 +3,7 @@
 This is my repo for **Assignment 2**
 
 _I'm looking forward to learning about_
-- Web Design
+- Different files
 - Website structure
 - Coding
 
