@@ -1,6 +1,6 @@
 # Eric Chandler
 ## Assignment 2
-** this text is bold
+This is my repo for ** Assignment 2 **
 * * this text is italicized
 - One
 - Two
