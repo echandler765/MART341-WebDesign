@@ -6,7 +6,9 @@ For the most part, I am understanding the material we are covering.  I think all
 **Things I feel comfortable on:**
 
 -Paragraphs
+
 -Links
+
 -Headings
 
 _Here is a link to where I learned about the information:_
