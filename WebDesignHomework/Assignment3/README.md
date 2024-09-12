@@ -4,6 +4,7 @@
 For the most part, I am understanding the material we are covering.  I think all the elements we are covering are quite fascinating and I'm excited to learn more about it as the smester moves on.  There are a few elements I sometimes stumble on like subheadings and including an image.
 
 **Things I feel comfortable on:**
+
 -Paragraphs
 -Links
 -Headings
