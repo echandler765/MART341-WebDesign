@@ -1,0 +1,66 @@
+/* General page styling */
+body {
+    background-color: rgb(6, 6, 6);
+}
+
+/* Header and text colors */
+h1, h3, blockquote {
+    color: rgb(15, 149, 239);
+    text-align: center;
+}
+
+h2, p, li {
+    color: rgb(255, 253, 253);
+}
+
+/* Navigation styling */
+.nav-link {
+    float: right;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+/* Container for centered content */
+.container {
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    background-color: #fff;
+}
+
+/* Media section with image alignment */
+.media {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Right-aligned image for Horror Movie Section */
+.image-right {
+    float: right;
+    margin-left: 10px;
+    padding: 10px;
+    width: 50%;
+}
+
+/* Banner image styling */
+.banner-image {
+    width: 100%;
+}
+
+/* Quote styling */
+blockquote {
+    background-color: rgb(40, 40, 40);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(15, 149, 239);
+    color: white;
+}
