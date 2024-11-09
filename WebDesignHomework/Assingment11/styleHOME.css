@@ -1,0 +1,55 @@
+/* External Font */
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('fonts/MyCustomFont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f3e8ff;
+    color: #4b0082;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'MyCustomFont', sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #6a0dad;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 1.2em;
+    letter-spacing: 0.5px;
+    line-height: 1.6;
+}
+
+button {
+    font-size: 1em;
+    color: #fff;
+    background-color: #6a0dad;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover Effects */
+button:hover {
+    background-color: #4b0082;
+}
+
+/* Pseudo-elements */
+button::before {
+    content: '✨ ';
+}
+
+button::after {
+    content: ' ✨';
+}
